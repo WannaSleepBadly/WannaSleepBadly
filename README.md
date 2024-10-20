@@ -5,7 +5,7 @@
 ### 🔭 About me
 - I'm a computer science student at RTU MIREA.
 - I study classical machine learning, natural language processing and deep learning.
-- I compete in various AI hackathons
+- I compete in various AI hackathons.
 
 ### ✉️ Contacts
 You can contact me at [rapoportjulia2021@gmail.com](mailto:rapoportjulia2021@gmail.com)
